@@ -33,4 +33,6 @@ OrderDetailID	OrderID	ProductID	Quantity
 SELECT * from Employees;
 Number of Records: 10
 EmployeeID	LastName	FirstName	BirthDate	Photo	Notes
+================================================================
+
 
